@@ -1,0 +1,67 @@
+.body-cont{
+    /* border: solid 2px black; */
+    /* width: 90%; */
+    height: 83vh;
+    margin: 0px 68px 31px 64px;
+    /* background-color: aqua; */
+    white-space: nowrap;
+}
+
+.arrange-col{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.top-section{
+    /* background-color: aqua; */
+    padding-top: 10px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.sub-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+
+.main-heading{
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.small-cont{
+    padding: 5px 5px 0px 5px;
+    border: solid 1px #cccccc;
+    width: fit-content;
+    border-radius: 3px;
+}
+
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: grey; 
+    border-radius: 10px;
+  }
+
+  .onSearch{
+    cursor: pointer;
+  }
+  

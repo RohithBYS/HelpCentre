@@ -1,0 +1,101 @@
+[{
+    "id": "342lknsfvlksfngnkefq3434",
+    "orientation": "Engineering",
+    "class": "Class 11",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "section": "Sec -1",
+    "boys_section": "Boys -1",
+    "girls_section": "Girls -1",
+    "count": 10
+  }, {
+    "id": "3242krgnkjdgnkjdn",
+    "orientation": "Medical",
+    "class": "Class 11",
+    "state": "Telangana",
+    "city": "Warangal",
+    "section": "Sec -1",
+    "boys_section": "Boys -1",
+    "girls_section": "Girls -1",
+    "count": 2
+  }, {
+    "id":"354tklmdglkdmf4www4t",
+    "orientation": "Engineering",
+    "class": "Class 12",
+    "state": "Andhra Pradesh",
+    "city": "Tirupathi",
+    "section": "Sec -2",
+    "boys_section": "Boys -2",
+    "girls_section": "Girls -2",
+    "count": 3
+  }, {
+    "id": "4n54jkn5jk425kj425",
+    "orientation": "Engineering",
+    "class": "Class 12",
+    "state": "Andhra Pradesh",
+    "city": "Kurnool",
+    "section": "Sec -4",
+    "boys_section": "Boys -2",
+    "girls_section": "Girls -2",
+    "count": 4
+  }, {
+    "id": "sefuaey78e34324",
+    "orientation": "Medical",
+    "class": "Class 11",
+    "state": "Telangana",
+    "city": "Nizamabad",
+    "section": "Sec -2",
+    "boys_section": "Boys -2",
+    "girls_section": "Girls -2",
+    "count": 5
+  }, {
+    "id": "45jk45jh4524j5k5",
+    "orientation": "Medical",
+    "class": "Class 11",
+    "state": "Punjab",
+    "city": "Chandigarh",
+    "section": "Sec -4",
+    "boys_section": "Boys -3",
+    "girls_section": "Girls -3",
+    "count": 6
+  }, {
+    "id": "45kl45j245kh45h45",
+    "orientation": "Engineering",
+    "class": "Class 13",
+    "state": "Maharashtra",
+    "city": "Nanded",
+    "section": "Sec -1",
+    "boys_section": "Boys -1",
+    "girls_section": "Girls -1",
+    "count": 7
+  }, {
+    "id": "3lk34lk3w4lkn34",
+    "orientation": "Engineering",
+    "class": "Class 12",
+    "state": "Andhra Pradesh",
+    "city": "Tirupathi",
+    "section": "Sec -2",
+    "boys_section": "Boys -2",
+    "girls_section": "Girls -2",
+    "count": 8
+  }, {
+    "id": "3245km245km45l5k",
+    "orientation": "Medical",
+    "class": "Class 12",
+    "state": "Telangana",
+    "city": "Warangal",
+    "section": "Sec -4",
+    "boys_section": "Boys -3",
+    "girls_section": "Girls -2",
+    "count": 9
+  }, {
+    "id": "34lnk34lkn34",
+    "orientation": "Engineering",
+    "class": "Class 13",
+    "state": "Andhra Pradesh",
+    "city": "Vijaywada",
+    "section": "Sec -2",
+    "boys_section": "Boys -1",
+    "girls_section": "Girls -3",
+    "count": 10
+  }]

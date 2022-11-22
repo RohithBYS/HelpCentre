@@ -1,0 +1,130 @@
+.filter-cont{
+    width: 24%;
+    height: 73vh;
+    /* background-color: pink;  */
+    overflow: auto;  
+}
+
+.filter-text{
+    font-size: 17px;
+    margin: 0 !important;
+    
+}
+
+.count-text{
+    font-size: 12px;
+    margin: 0 !important;
+    font-weight: normal;
+    color: rgba(62, 62, 95, 0.8);
+}
+
+
+
+
+.filter-head{
+    /* width: 86.5%; */
+   
+    /* height: 10%; */
+    background-color: white;
+    padding: 20px 20px 0px 20px;
+    overflow: none;
+}
+
+
+.filter-body{
+    background-color: white;
+    /* width: 86.5%; */
+    padding: 10px 20px 0px 20px;
+    /* margin-top: -6%; */
+    padding-bottom: 7%;
+    /* margin-bottom: 1%; */
+    border-bottom: solid 2px #E9EBEF;
+}
+
+
+
+
+.filter-type-text{
+    font-size: 15px;
+    margin: 0 !important;
+    padding-bottom: 2px;
+    /* margin-top: 10px; */
+}
+
+.search-filt-icon{
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.search-filt{
+    margin-bottom: 10px;
+    display: block;
+}
+
+
+input[type=search]{
+    width: 50%;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid black;
+   
+}
+
+.no-outline{
+    margin-bottom: 10px;
+    display: block;
+}
+.no-outline, .no-outline2:focus {
+    outline: none;
+  }
+.checkbox-cont{
+    /* background-color: red; */
+    /* margin-top: -5%; */
+    margin-bottom: 3%;
+}
+
+.no-outline2{
+    /* margin-bottom: 10px; */
+    display: block;
+}
+
+input[type=search2]{
+    /* width: 70%; */
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid rgba(62, 62, 95, 0.8);
+    background-color: transparent;
+    font-size: 15px;
+    color:rgba(62, 62, 95, 0.8) ;
+   
+}
+
+
+#checkBox1 label{
+    padding-left: 0.4em;
+    font-size: 14px;
+    color: rgba(62, 62, 95, 0.8);
+}
+
+
+.clear-text{
+    color: blue;
+    font-weight: normal;
+    margin: 0 !important;
+}
+
+.arrange{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-arrange{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    /* align-items: center; */
+    gap: 10px;
+}
+

@@ -1,0 +1,54 @@
+.table-cont{
+    background-color: white;
+    margin-left: 2%;
+    width: 74%;
+    height: 73vh;
+    overflow: auto;
+}
+
+
+
+table{
+    /* background-color: red; */
+    border-collapse: collapse;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: left;
+}
+
+th{
+    padding: 16px 24px 16px 30px;
+    border: solid 1px #E9EBEF;
+    background-color: #E9EBEF;
+    font-size: 14px;
+}
+
+td{
+    padding: 16px 24px 16px 30px;
+    border-bottom: solid 1px #E9EBEF; 
+    font-size: 14px;
+    color : rgba(62, 62, 95, 0.8)
+}
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: grey; 
+    border-radius: 10px;
+  }
+
+ 
+  

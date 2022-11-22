@@ -1,0 +1,18 @@
+.chart-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* gap: 20px;  */
+}
+
+.chart{
+    width: 720px;
+    margin-bottom: 10%;
+}
+
+
+.chart-second{
+    margin-bottom: 10%;
+    width: 500px;
+}
